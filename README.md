@@ -3,4 +3,4 @@
 ### All credits:
 ### Design pattner javascript source code from site doFactory:
 
-http://www.dofactory.com/javascript/
+http://www.dofactory.com/javascript/design-patterns
