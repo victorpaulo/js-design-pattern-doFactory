@@ -1,3 +1,6 @@
+//Credit:
+//@author: http://www.dofactory.com/javascript/design-patterns
+
 var Shipping = function() {
     this.company = "";
 };

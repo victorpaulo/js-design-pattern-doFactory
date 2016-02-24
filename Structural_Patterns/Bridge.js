@@ -1,5 +1,7 @@
-// input devices
- 
+//Credit:
+//@author: http://www.dofactory.com/javascript/design-patterns
+
+// input devices 
 var Gestures = function (output) {
     this.output = output;
  

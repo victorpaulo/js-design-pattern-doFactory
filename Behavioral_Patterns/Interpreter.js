@@ -1,3 +1,6 @@
+//Credit:
+//@author: http://www.dofactory.com/javascript/design-patterns
+
 var Context = function (input) {
     this.input = input;
     this.output = 0;

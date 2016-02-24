@@ -1,3 +1,6 @@
+//Credit:
+//@author: http://www.dofactory.com/javascript/design-patterns
+
 var Employee = function (name, salary, vacation) {
     var self = this;
         

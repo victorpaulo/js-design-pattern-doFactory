@@ -1,3 +1,6 @@
+//Credit:
+//@author: http://www.dofactory.com/javascript/design-patterns
+
 function Shop() {
     this.construct = function(builder) {
         builder.step1();

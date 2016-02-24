@@ -1,3 +1,6 @@
+//Credit:
+//@author: http://www.dofactory.com/javascript/design-patterns
+
 var Request = function(amount) {
     this.amount = amount;
     log.add("Requested: $" + amount + "\n");

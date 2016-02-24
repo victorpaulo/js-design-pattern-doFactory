@@ -1,5 +1,7 @@
-// old interface
- 
+//Credit:
+//@author: http://www.dofactory.com/javascript/design-patterns
+
+// old interface 
 function Shipping() {
     this.request = function(zipStart, zipEnd, weight) {
         // ...

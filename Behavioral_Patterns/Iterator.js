@@ -1,3 +1,6 @@
+//Credit:
+//@author: http://www.dofactory.com/javascript/design-patterns
+
 var Iterator = function(items) {
     this.index = 0;
     this.items = items;

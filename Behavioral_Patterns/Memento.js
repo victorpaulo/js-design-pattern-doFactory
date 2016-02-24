@@ -1,3 +1,6 @@
+//Credit:
+//@author: http://www.dofactory.com/javascript/design-patterns
+
 var Person = function(name, street, city, state) {
     this.name = name;
     this.street = street;

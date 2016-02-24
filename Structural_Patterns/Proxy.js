@@ -1,3 +1,6 @@
+//Credit:
+//@author: http://www.dofactory.com/javascript/design-patterns
+
 function GeoCoder() {
  
     this.getLatLng = function(address) {

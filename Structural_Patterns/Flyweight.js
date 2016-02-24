@@ -1,3 +1,6 @@
+//Credit:
+//@author: http://www.dofactory.com/javascript/design-patterns
+
 function Flyweight (make, model, processor) {
     this.make = make;
     this.model = model;

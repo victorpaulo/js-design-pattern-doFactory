@@ -1,3 +1,6 @@
+//Credit:
+//@author: http://www.dofactory.com/javascript/design-patterns
+
 function add(x, y) { return x + y; }
 function sub(x, y) { return x - y; }
 function mul(x, y) { return x * y; }

@@ -1,3 +1,6 @@
+//Credit:
+//@author: http://www.dofactory.com/javascript/design-patterns
+
 var TrafficLight = function () {
     var count = 0;
     var currentState = new Red(this);
