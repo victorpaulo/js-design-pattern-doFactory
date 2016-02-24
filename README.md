@@ -1,4 +1,4 @@
-# js-design-pattern-doFactory
+# Javascript Design Pattern
 
 ## Design pattner javascript source code from site doFactory:
 
